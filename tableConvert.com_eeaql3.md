@@ -1,5 +1,4 @@
-﻿ 图片 | Honeyview | http://www.bandisoft.com/honeyview/ |  |  |  
----|---|---|---|---|---
+﻿ 图片 | Honeyview | http://www.bandisoft.com/honeyview/ |  
   | ImageGlass | https://imageglass.org/ | 看图 |  |  
   | PicView | https://github.com/Ruben2776/PicView | 开源，看图 |  |  
   | Snipaste | https://zh.snipaste.com/ | 截图+贴图，便携版、商店版 |  |  
