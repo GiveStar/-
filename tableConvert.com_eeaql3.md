@@ -18,6 +18,8 @@
   | verycapture | https://verycapture.com/cn/index.html | 长截图、OCR、录屏 | 
   | PixPin | https://pixpinapp.com/ | 长截图、贴图、OCR | 
   | eSearch | https://github.com/xushengfeng/eSearch | 长截屏、离线OCR、 搜索翻译、贴图、录屏 |
+  |9|9|6|
+  |-----|---|----------|
 
 
 
