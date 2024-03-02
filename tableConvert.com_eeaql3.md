@@ -1,4 +1,4 @@
-|软件|官网|
+|软件|官网|说明|
 |-------------|----------|------------|
   | Honeyview | http://www.bandisoft.com/honeyview/ |  
   | ImageGlass | https://imageglass.org/ | 看图 |  
